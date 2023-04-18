@@ -22,7 +22,6 @@ Hello there, I'm Keymar, a web developer with experience in application developm
 ![Heroku](https://img.shields.io/badge/Heroku-9374b7?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Some statistics
-https://github-contribution-graph.ez4o.com/?username=[keymarc22]&last_n_days=[365]&img_url=[ENCODED_IMAGE_URL]
 [![Keymar' GitHub stats](https://github-readme-stats.vercel.app/api?username=keymarc22)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keymarc22&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
