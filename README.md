@@ -1,7 +1,7 @@
 
-# Junior RoR Developer
+# Ruby/Ruby on Rails Developer
 
-Hello there, I'm Keymar, a web developer with experience in application development using RoR, and javascript, performing unit and integration tests, I have used tools such as redis, sidekiq, rspec, rubocop, circle ci and heroku.
+Hello there, I'm Keymar, a web developer with experience in application development using Sinatra, Ruby on rails and javascript, performing unit and integration tests, I've used tools such as redis, sidekiq, rspec, rubocop, circle ci and heroku.
 
 ## I'm currently learning
 - React
@@ -25,3 +25,6 @@ Hello there, I'm Keymar, a web developer with experience in application developm
 [![Keymar' GitHub stats](https://github-readme-stats.vercel.app/api?username=keymarc22)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keymarc22&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### Practicing
+![Codewars](https://github.r2v.ch/codewars?user=keymarc22&stroke=COLOR)
