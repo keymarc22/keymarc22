@@ -14,7 +14,7 @@ Hello there, I'm Keymar, a web developer with experience in application developm
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/Ruby-%23E34F26.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![RubyonRails](https://img.shields.io/badge/RubyonRails-%23E34F26.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![React](https://img.shields.io/badge/React-00d1f7?style=for-the-badge&logo=react&logoColor=white)
+![Vuejs](https://img.shields.io/badge/Vuejs-00d1f7?style=for-the-badge&logo=vuejs&logoColor=white)
 
 ### Some tools
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6e10ee?style=for-the-badge&logo=bootstrap&logoColor=white)
