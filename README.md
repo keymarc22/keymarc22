@@ -1,5 +1,5 @@
 
-# Ruby/Ruby on Rails Developer
+# Ruby/RoR Developer
 
 Hello there, I'm Keymar, a web developer with experience in application development using Sinatra, Ruby on rails and javascript, performing unit and integration tests, I've used tools such as redis, sidekiq, rspec, rubocop, circle ci and heroku.
 
